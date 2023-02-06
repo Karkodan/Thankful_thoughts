@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "eventsource-parser": "^0.1.0",
+    "formik": "^2.2.9",
+    "formik-chakra-ui": "^1.6.1",
+    "framer-motion": "^9.0.1",
+    "openai": "^3.1.0",
+    "react-icons": "^4.7.1",
+    "yup": "^0.32.11"
+  }
+}
